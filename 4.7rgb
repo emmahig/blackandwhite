@@ -71,19 +71,3 @@ while i < 256:
 newImage = Image.new("RGB", image.size)
 newImage.putdata(new_pixels)
 newImage.save("shade.jpg")
-@emmahig
-Comment
- 
-Leave a comment
- 
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
